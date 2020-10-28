@@ -21,5 +21,11 @@ Just summarize the basic workflow of the git:
 
 # first step
 Create the git repository to in github.
+# branch and merge
+git branch
+git checkout
+git merge
+
+
 
 
